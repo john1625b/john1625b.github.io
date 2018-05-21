@@ -172,3 +172,13 @@ header.masthead .bg-circle-4 {
 .screens {
   margin: 10px
 }
+.display-4-ingle {
+  font-size: 3.5rem;
+  font-weight: 300;
+  line-height: 1.2
+}
+@media only screen and (max-width : 800px) {
+  .display-4-ingle {
+    font-size: 2.5rem;
+  }
+}
