@@ -192,3 +192,12 @@ header.masthead .bg-circle-4 {
   z-index: 998;
 }
 
+video {
+  width: 500px;
+}
+
+@media only screen and (max-width : 800px) {
+  video {
+    width: 100%;
+  }
+}
